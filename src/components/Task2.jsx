@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// eslint-disable-next-line
 import Task1 from "./Task1";
 
 function Task2(props){
